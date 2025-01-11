@@ -10,6 +10,10 @@ This project aims to analyze the customer funnel of Metrocar, a ride-sharing app
 We will use SQL for data collection and Pandas for further analysis and visualisation.
 The stakeholders have asked several business questions that can uncover valuable insights for improving specific areas of the customer funnel.
 
+### Resources Links
+- [Google Colab Notebook](https://colab.research.google.com/drive/1JsPH6Ebi2PXNsfTck4T7UHMjE28hTMWZ?usp=sharing)
+- [Metrocar Project Presentation](https://docs.google.com/presentation/d/1S44nMHP25rUcfmyQrn0DiUvNgONUHPKJH67_zISOvcI/edit?usp=sharing)
+
 ## Metrocar’s Funnel
 
 The customer funnel for Metrocar includes the following stages:
@@ -32,9 +36,6 @@ You will need to analyze the data and make recommendations based on the followin
 - Surge pricing is the practice of increasing the price of goods or services when there is the greatest demand for them. If we want to adopt a price-surging strategy, what does the distribution of ride requests look like throughout the day?
 - What part of our funnel has the lowest conversion rate? What can we do to improve this part of the funnel?
 
-### Resources Links
-- [Google Colab Notebook](https://colab.research.google.com/drive/1JsPH6Ebi2PXNsfTck4T7UHMjE28hTMWZ?usp=sharing)
-- [Metrocar Project Presentation](https://docs.google.com/presentation/d/1S44nMHP25rUcfmyQrn0DiUvNgONUHPKJH67_zISOvcI/edit?usp=sharing)
 
 
 
