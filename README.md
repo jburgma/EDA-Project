@@ -1,5 +1,6 @@
-
-https://github.com/jburgma/Metrocar_Ride_Service/blob/main/Metrocar%20foto.png
+<div align="center">
+<img src="https://github.com/jburgma/Metrocar_Ride_Service/blob/main/Metrocar%20foto.png" width="200" height="200" alt="Image">
+</div>
 
 # METROCAR Project - Funnel Analysis 
 
