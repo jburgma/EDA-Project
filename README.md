@@ -1,3 +1,5 @@
+![] (https://github.com/jburgma/Metrocar_Ride_Service/blob/main/Metrocar%20foto.png)
+
 # METROCAR Project - Funnel Analysis 
 
 ## Introduction
